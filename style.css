@@ -117,16 +117,16 @@ body{
     color: var(--color5);
 }
 
-@media screen and (max-width:200px){
+@media screen and (max-width:370px){
     body{
         font-size: 14px;
         background-image:url(ASSETS/pattern-background-mobile.svg) ;
         max-width: 100%;
-        padding: 0px 0px;
-        margin: 0px 0px;
     }
     .container{
         max-width: 87%;
+        height: 37rem;
+        top: 22rem;
     }
     .hero-text h2 {
         font-size: 1.5rem;
