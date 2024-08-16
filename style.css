@@ -117,7 +117,7 @@ body{
     color: var(--color5);
 }
 
-@media screen and (max-width:365px){
+@media screen and (max-width:200px){
     body{
         font-size: 14px;
         background-image:url(ASSETS/pattern-background-mobile.svg) ;
